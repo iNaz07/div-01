@@ -1,0 +1,5 @@
+On Unix-like operating systems, the tail command reads a file, and outputs the last part of it (the "tail").
+
+The tail command can also monitor data streams and open files, displaying new information as it is written. For example, it's a useful way to monitor the newest events in a system log in real time.
+
+This document covers the GNU/Linux version of tail.
